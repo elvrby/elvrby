@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @elvrby<br>👀 I’m interested in Software & Game Development<br>🌱 I’m currently learning Flutter<br>💞️ I’m looking to collaborate on Software & App Development<br>📫 How to reach me @alfarbyx instagram<br>😄 Pronouns: he/him<br>⚡ Fun fact: Fact I'm fun :)
+👋 Hi, I’m @elvrby<br>👀 I’m interested in Software & Game Development<br>🌱 I’m currently learning Flutter<br>💞️ I’m looking to collaborate on Software & App Development<br>📫 How to reach me @alfarbyx instagram<br>😄 Pronouns: he/him<br>
 
 
 ## 🌐 Socials:
